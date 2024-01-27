@@ -1,3 +1,3 @@
 # React-Converter
 
-React 연습용 converter 만들기!
+React 연습용 영화 App 만들기!
