@@ -1,0 +1,6 @@
+.btn {
+  background-color: hsla(0, 60%, 66%, 0.18);
+  border: none;
+  border-radius: 30%;
+  padding: 5px;
+}
